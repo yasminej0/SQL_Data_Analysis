@@ -1,8 +1,9 @@
-### AppleStore_Data_Analysis
-#### Tools :
-SQL
+### AppleStore_Data_Analysis ✨
+
 #### Overview :
 Analysis of Apple's App Store data for extracting insights and business improvement, using SQLite and Analytical SQL Functions.
+#### Tools :
+SQL
 #### EDA :
 Examples of Exploratory Data Analysis :
 - Checking Missing values :
@@ -20,7 +21,7 @@ We can answer questions such as :
   ![](Examples/eda4.PNG)
   ![](Examples/tab4.PNG)
 
-#### Insights :
+#### Insights 🔮:
 - Paid apps  have better ratings 
 - Apps supporting between 10 and 3 languages have better ratings 
 - Finance and book apps have low ratings (new market penetration)
