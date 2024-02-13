@@ -7,17 +7,23 @@ SQL
 #### EDA :
 Examples of Exploratory Data Analysis :
 - Checking Missing values :
+  
   ![](Examples/eda.PNG)
   ![](Examples/tab1.PNG)
+  
 - Finding the number of apps per genre:
+  
   ![](Examples/eda2.PNG)
   ![](Examples/tab2.PNG)
+  
 #### Analysis:
 We can answer questions such as :
 - Does paid apps have higher ratings than free apps?
+  
   ![](Examples/eda3.PNG)
   ![](Examples/tab3.PNG)
 - What's the top-rated apps for each genre?
+  
   ![](Examples/eda4.PNG)
   ![](Examples/tab4.PNG)
 
